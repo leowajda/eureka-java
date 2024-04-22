@@ -1,0 +1,12 @@
+name: update documentation
+run-name: update /content and README.md
+
+on:
+  schedule:
+    - cron:  '*/15 * * * *'
+
+jobs:
+  java:
+      uses: leowajda/eureka/.github/workflows/update-table.yml@master
+      with:
+        path-filter: 'src/main/**/*.java'
