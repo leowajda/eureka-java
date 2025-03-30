@@ -5,6 +5,7 @@ Name,Java
 [Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target),[:arrow_right_hook:](https://github.com/leowajda/eureka-java/blob/master/src/main/java/array/iterative/FindSmallestLetterGreaterThanTarget.java)
 [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle),[:arrow_right_hook:](https://github.com/leowajda/eureka-java/blob/master/src/main/java/linked_list/iterative/LinkedListCycle.java)
 [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list),[:arrow_right_hook:](https://github.com/leowajda/eureka-java/blob/master/src/main/java/linked_list/iterative/MiddleOfTheLinkedList.java)
+[Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring),[:arrow_right_hook:](https://github.com/leowajda/eureka-java/blob/master/src/main/java/array/iterative/MinimumWindowSubstring.java)
 [Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array),[:arrow_right_hook:](https://github.com/leowajda/eureka-java/blob/master/src/main/java/array/iterative/PeakIndexInAMountainArray.java)
 [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self),[:arrow_right_hook:](https://github.com/leowajda/eureka-java/blob/master/src/main/java/array/iterative/ProductOfArrayExceptSelf.java)
 [Sqrt(x)](https://leetcode.com/problems/sqrtx),[:arrow_right_hook:](https://github.com/leowajda/eureka-java/blob/master/src/main/java/math/iterative/SqrtX.java)
