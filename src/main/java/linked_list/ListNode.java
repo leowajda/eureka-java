@@ -1,6 +1,5 @@
 package linked_list;
 
-// Leetcode definition for singly-linked list.
 public class ListNode {
     public int val;
     public ListNode next;
@@ -8,7 +7,7 @@ public class ListNode {
     ListNode() {}
 
     ListNode(int val) {
-        this.val = val;
+        this(val, null);
     }
 
     ListNode(int val, ListNode next) {
