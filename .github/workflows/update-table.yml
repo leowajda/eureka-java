@@ -2,8 +2,8 @@ name: update documentation
 run-name: update /content and README.md
 
 on:
-  schedule:
-    - cron:  '0 0 * * *'
+  push:
+    branches: [master]
   workflow_dispatch:
 
 jobs:
