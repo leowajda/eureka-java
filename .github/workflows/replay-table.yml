@@ -1,0 +1,11 @@
+name: replay documentation table
+run-name: manually replay /content and README.md
+
+on:
+  workflow_dispatch:
+
+jobs:
+  java:
+    uses: leowajda/eureka/.github/workflows/replay-table.yml@master
+    with:
+      path-filter: 'src/main/**/*.java'
