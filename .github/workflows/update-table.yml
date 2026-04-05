@@ -8,7 +8,7 @@ on:
 
 jobs:
   java:
-    uses: leowajda/eureka/.github/workflows/update-table.yml@feature/yaml-migration
+    uses: leowajda/eureka/.github/workflows/update-table.yml@master
     with:
       path-filter: 'src/main/**/*.java'
     secrets: inherit
