@@ -9,3 +9,4 @@ jobs:
     uses: leowajda/eureka/.github/workflows/replay-table.yml@master
     with:
       path-filter: 'src/main/**/*.java'
+    secrets: inherit
