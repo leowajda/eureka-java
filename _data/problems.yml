@@ -16,6 +16,15 @@ problems:
     - Array
     - Binary Search
     iterative: https://github.com/leowajda/eureka-java/blob/master/src/main/java/array/iterative/BinarySearch.java
+  binary-tree-level-order-traversal:
+    name: Binary Tree Level Order Traversal
+    url: https://leetcode.com/problems/binary-tree-level-order-traversal
+    difficulty: Medium
+    categories:
+    - Tree
+    - Breadth-First Search
+    - Binary Tree
+    iterative: https://github.com/leowajda/eureka-java/blob/master/src/main/java/tree/iterative/BinaryTreeLevelOrderTraversal.java
   binary-tree-right-side-view:
     name: Binary Tree Right Side View
     url: https://leetcode.com/problems/binary-tree-right-side-view
@@ -59,6 +68,7 @@ problems:
     - Array
     - Dynamic Programming
     - Breadth-First Search
+    iterative: https://github.com/leowajda/eureka-java/blob/master/src/main/java/array/iterative/CoinChange.java
     recursive: https://github.com/leowajda/eureka-java/blob/master/src/main/java/array/recursive/CoinChange.java
   combination-sum:
     name: Combination Sum
@@ -206,6 +216,19 @@ problems:
     - Breadth-First Search
     - Binary Tree
     recursive: https://github.com/leowajda/eureka-java/blob/master/src/main/java/tree/recursive/InvertBinaryTree.java
+  k-closest-points-to-origin:
+    name: K Closest Points to Origin
+    url: https://leetcode.com/problems/k-closest-points-to-origin
+    difficulty: Medium
+    categories:
+    - Array
+    - Math
+    - Divide and Conquer
+    - Geometry
+    - Sorting
+    - Heap (Priority Queue)
+    - Quickselect
+    iterative: https://github.com/leowajda/eureka-java/blob/master/src/main/java/array/iterative/KClosestPointsToOrigin.java
   kth-largest-element-in-an-array:
     name: Kth Largest Element in an Array
     url: https://leetcode.com/problems/kth-largest-element-in-an-array
@@ -256,6 +279,23 @@ problems:
     - Linked List
     - Two Pointers
     iterative: https://github.com/leowajda/eureka-java/blob/master/src/main/java/linked_list/iterative/LinkedListCycle.java
+  longest-common-subsequence:
+    name: Longest Common Subsequence
+    url: https://leetcode.com/problems/longest-common-subsequence
+    difficulty: Medium
+    categories:
+    - String
+    - Dynamic Programming
+    recursive: https://github.com/leowajda/eureka-java/blob/master/src/main/java/array/recursive/LongestCommonSubsequence.java
+  longest-increasing-subsequence:
+    name: Longest Increasing Subsequence
+    url: https://leetcode.com/problems/longest-increasing-subsequence
+    difficulty: Medium
+    categories:
+    - Array
+    - Binary Search
+    - Dynamic Programming
+    iterative: https://github.com/leowajda/eureka-java/blob/master/src/main/java/array/iterative/LongestIncreasingSubsequence.java
   lowest-common-ancestor-of-a-binary-search-tree:
     name: Lowest Common Ancestor of a Binary Search Tree
     url: https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree
@@ -404,6 +444,17 @@ problems:
     - Array
     - Backtracking
     recursive: https://github.com/leowajda/eureka-java/blob/master/src/main/java/array/recursive/Permutations.java
+  predict-the-winner:
+    name: Predict the Winner
+    url: https://leetcode.com/problems/predict-the-winner
+    difficulty: Medium
+    categories:
+    - Array
+    - Math
+    - Dynamic Programming
+    - Recursion
+    - Game Theory
+    recursive: https://github.com/leowajda/eureka-java/blob/master/src/main/java/array/iterative/PredictTheWinner.java
   product-of-array-except-self:
     name: Product of Array Except Self
     url: https://leetcode.com/problems/product-of-array-except-self
@@ -412,11 +463,14 @@ problems:
     - Array
     - Prefix Sum
     iterative: https://github.com/leowajda/eureka-java/blob/master/src/main/java/array/iterative/ProductOfArrayExceptSelf.java
-  range-sum-query---immutable:
+  range-sum-query-immutable:
     name: Range Sum Query - Immutable
-    url: https://leetcode.com/problems/range-sum-query---immutable
-    difficulty: ''
-    categories: []
+    url: https://leetcode.com/problems/range-sum-query-immutable
+    difficulty: Easy
+    categories:
+    - Array
+    - Design
+    - Prefix Sum
     iterative: https://github.com/leowajda/eureka-java/blob/master/src/main/java/array/iterative/RangeSumQueryImmutable.java
   reorganize-string:
     name: Reorganize String
@@ -507,6 +561,16 @@ problems:
     - Array
     - Hash Table
     iterative: https://github.com/leowajda/eureka-java/blob/master/src/main/java/array/iterative/TwoSum.java
+  ugly-number-ii:
+    name: Ugly Number II
+    url: https://leetcode.com/problems/ugly-number-ii
+    difficulty: Medium
+    categories:
+    - Hash Table
+    - Math
+    - Dynamic Programming
+    - Heap (Priority Queue)
+    iterative: https://github.com/leowajda/eureka-java/blob/master/src/main/java/math/iterative/UglyNumberII.java
   unique-paths:
     name: Unique Paths
     url: https://leetcode.com/problems/unique-paths
